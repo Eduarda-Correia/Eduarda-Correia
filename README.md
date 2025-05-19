@@ -55,4 +55,3 @@
       <img src="Imagens/studio_ghibli_kiki.gif" alt="studio ghibli kiki Sticker by Kye Cheng" width="200px" />
     </td>
   </tr>
-
