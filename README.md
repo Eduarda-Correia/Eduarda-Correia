@@ -9,7 +9,7 @@ Sou apaixonada por tecnologia com propósito! Sempre que aprendo algo novo, gost
 
 Amo inovação e, sempre que possível, busco formas de tornar as atividades mais simples com automação.
 
-Fora do código, sou fã da cultura nerd — gosto de animes, jogos e filmes de ficção científica. E também sou movida a música, escuto bastante para estudar e programar.
+Fora do código, sou fã da cultura nerd: gosto de animes, jogos e filmes de ficção científica. E para dar aquele boost de foco, nada melhor do que uma boa playlist ao fundo
 
 
 > "Os dois dias mais importantes da sua vida são o dia em que você nasce e o dia em que descobre o porquê."  
@@ -45,5 +45,8 @@ Fora do código, sou fã da cultura nerd — gosto de animes, jogos e filmes de 
   </a>
   <a href="https://www.linkedin.com/in/aeduardacorreia/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://myanimelist.net/profile/Duardaa" target="_blank">
+    <img src="https://img.shields.io/badge/MyAnimeList-%2314A2DA.svg?style=for-the-badge&logo=myanimelist&logoColor=white" alt="MyAnimeList" />
   </a>
 </p>
