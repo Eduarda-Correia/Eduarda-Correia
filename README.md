@@ -7,7 +7,7 @@
   Sou apaixonada por tecnologia com ***propósito***! Sempre que aprendo algo novo, gosto de entender o "porquê" e como aquilo pode gerar impacto real.  
   Desde 2019 venho me descobrindo nesse universo e, atualmente, estou me desenvolvendo nas áreas de **Qualidade de Software (QA)** e **Análise de Resultados**.
 
-  Amo <span **inovação** e, sempre que possível, busco formas de tornar as atividades mais simples com automação.
+  Amo **inovação** e, quando possível, busco formas de tornar as atividades mais simples com automação.
 
   Fora do código, sou fã da cultura nerd: animes, jogos e filmes de ficção científica são meu refúgio favorito.  
   E para dar aquele boost de foco, nada melhor do que uma boa playlist no fundo!
@@ -39,20 +39,20 @@
 
 ## 🌐 Vamos nos conectar?
 
-<div style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap;">
-  
-  <div>
-    <a href="https://www.instagram.com/duarda.correia?igsh=MWZqdGthMWs2d3ppcw==" target="_blank">
-      <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-    </a>
-    <a href="https://www.linkedin.com/in/aeduardacorreia/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="https://myanimelist.net/profile/Duardaa" target="_blank">
-      <img src="https://img.shields.io/badge/MyAnimeList-%2314A2DA.svg?style=for-the-badge&logo=myanimelist&logoColor=white" alt="MyAnimeList" />
-    </a>
-  </div>
+  <tr>
+    <td>
+      <a href="https://www.instagram.com/duarda.correia?igsh=MWZqdGthMWs2d3ppcw==" target="_blank">
+        <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+      </a>
+      <a href="https://www.linkedin.com/in/aeduardacorreia/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+      </a>
+      <a href="https://myanimelist.net/profile/Duardaa" target="_blank">
+        <img src="https://img.shields.io/badge/MyAnimeList-%2314A2DA.svg?style=for-the-badge&logo=myanimelist&logoColor=white" alt="MyAnimeList" />
+      </a>
+    </td>
+    <td align="left">
+      <img src="Imagens/studio_ghibli_kiki.gif" alt="studio ghibli kiki Sticker by Kye Cheng" width="200px" />
+    </td>
+  </tr>
 
-  <img src="Imagens/studio_ghibli_kiki.gif" alt="studio ghibli kiki Sticker by Kye Cheng" width="220px" />
-  
-</div>
