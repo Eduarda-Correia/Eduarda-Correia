@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="![I'm Eduarda Correia](https://github.com/user-attachments/assets/bc5c1b1e-cd0f-4737-bd1d-0d461485718b)
+  <img src=Imagens/I'm Eduarda Correia.gif
 " alt="Banner Eduarda Correia" width="100%" />
 </p>
 
