@@ -9,7 +9,7 @@ Sou apaixonada por tecnologia com propósito! Sempre que aprendo algo novo, gost
 
 Amo inovação e, sempre que possível, busco formas de tornar as atividades mais simples com automação.
 
-Fora do código, sou fã da cultura nerd — gosto de animes, jogos e filmes de ficção científica. E também sou movida a música, escuto bastante para estudar e programar. ![music gif](https://github.com/user-attachments/assets/5880193c-743e-44ab-8f3a-6f395109d218)
+Fora do código, sou fã da cultura nerd — gosto de animes, jogos e filmes de ficção científica. E também sou movida a música, escuto bastante para estudar e programar.
 
 
 > "Os dois dias mais importantes da sua vida são o dia em que você nasce e o dia em que descobre o porquê."  
