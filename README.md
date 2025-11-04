@@ -5,7 +5,7 @@
 # Olá, pessoal! 
 
   Sou apaixonada por tecnologia com ***propósito***! Sempre que aprendo algo novo, gosto de entender o "porquê" e como aquilo pode gerar impacto real.  
-  Desde 2019 venho me descobrindo nesse universo e, atualmente, estou me desenvolvendo nas áreas de **Qualidade de Software (QA)** e **Análise de Resultados**.
+  Desde 2019 venho me descobrindo nesse universo e, atualmente, estou me desenvolvendo nas áreas de **Engenharia de Dados** e **Infraestrutura e Segurança**.
 
   Amo **inovação** e, quando possível, busco formas de tornar as atividades mais simples com automação.
 
